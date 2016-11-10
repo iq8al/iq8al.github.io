@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Directories which are used during building
+output/
+plugins/
+
+# Temporary files
+*.swp
+*.pid
