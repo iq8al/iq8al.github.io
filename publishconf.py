@@ -23,3 +23,11 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+# pelican-blue theme settings. Unfortunately I need to override the whole tuple
+# for production publishing. If it was a dic it might be simpler
+MENUITEMS = (
+    ('Blog Top', SITEURL),
+    ('Xoxzo Inc.', 'https://info.xoxzo.com/'),
+)
+
