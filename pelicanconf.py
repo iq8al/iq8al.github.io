@@ -9,6 +9,7 @@ PROJECT_ROOT = os.path.abspath(os.path.join(HERE, '.'))
 
 AUTHOR = 'Iqbal Abdullah'
 SITENAME = 'Iqbal, Rileks La.'
+TOP_PAGE_TITLE = 'Welcome To My Blog'
 #SITEURL = 'https://iqbal.rileks.la'
 SITEURL = 'http://localhost:8000'
 DISPLAY_PAGES_ON_MENU = True
@@ -58,17 +59,20 @@ I18N_SUBSITES   = {
     'ja': {
         'SITENAME': 'Iqbal, Rileks La.',
         'STATIC_PATHS': STATIC_PATHS,
-        'THEME': 'theme/pelican-blue',
+        'THEME': THEME,
+        'TOP_PAGE_TITLE': TOP_PAGE_TITLE,
     },
     'ms': {
         'SITENAME': 'Iqbal, Rileks La.',
         'STATIC_PATHS': STATIC_PATHS,
-        'THEME': 'theme/pelican-blue',
+        'THEME': THEME,
+        'TOP_PAGE_TITLE': TOP_PAGE_TITLE,
     },
     'en': {
         'SITENAME': 'Iqbal, Rileks La.',
         'STATIC_PATHS': STATIC_PATHS,
-        'THEME': 'theme/pelican-blue',
+        'THEME': THEME,
+        'TOP_PAGE_TITLE': TOP_PAGE_TITLE,
     },
 }
 
