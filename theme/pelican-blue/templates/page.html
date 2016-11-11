@@ -8,6 +8,13 @@
                         get the pdf
                 </a>
         {% endif %}
+
         {{ page.content }}
+
+        <div>
+        {% import 'translations.html' as translations with context %}
+        Choose a different language: {{ translations.translations_for(page) }}
+        </div>
+
 </section>
 {% endblock %}
