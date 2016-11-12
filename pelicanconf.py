@@ -48,7 +48,7 @@ STATIC_PATHS = ['images', 'pdfs']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME           = 'theme/pelican-blue'
+THEME           = 'themes/pelican-blue'
 PLUGIN_PATHS    = [os.path.join(PROJECT_ROOT, 'plugins'),]
 PLUGINS         = ["i18n_subsites", ]
 
