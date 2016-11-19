@@ -33,7 +33,7 @@ help:
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
 	@echo '   make stopserver                     stop local server                  '
-	@echo '   make publish-github                 upload the web site via gh-pages   '
+	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -81,7 +81,7 @@ stopserver:
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
-publish-github: publish
+github: publish
 	ghp-import -m "Generate Pelican site" -p -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 
 .PHONY: html help clean regenerate serve serve-global devserver publish publish-github
