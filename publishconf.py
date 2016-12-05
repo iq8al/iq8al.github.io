@@ -10,7 +10,6 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-#SITEURL = 'https://iqbal.rileks.la'
 SITEURL = 'https://iq8al.github.io'
 RELATIVE_URLS = False
 

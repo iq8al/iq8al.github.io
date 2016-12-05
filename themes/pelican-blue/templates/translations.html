@@ -1,6 +1,7 @@
 {% macro translations_for(article) %}
 {% if article.translations %}
 <span class="label"></span>
+Read this in a different language:
 {% for translation in article.translations %}
 	<a href="{{ SITEURL }}/{{ translation.url }}">
         <i class="icon-edit"></i>{{ translation.lang }}

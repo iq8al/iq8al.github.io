@@ -1,5 +1,5 @@
 Title: So you're CEO
-Slug: so-youre-ceo
+Slug: so-you-are-ceo
 Lang: en
 Date: 2012-10-21 10:20
 Modified: 2012-10-21 10:20

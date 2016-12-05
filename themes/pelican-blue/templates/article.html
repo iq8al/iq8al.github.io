@@ -16,10 +16,7 @@
 <section id="content">
     <article>
         <h2 class="post_title post_detail"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title }}">{{ article.title }}</a></h2>
-        <div class="entry-content blog-post">
-            {{ article.content }}
-        </div>
-        <div class="post_list">
+        <div>
             <span>By </span>
             <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
             <span> in </span>
@@ -27,7 +24,15 @@
             <span class="post_date">{{ article.locale_date }}</span>
             <div>
             {% import 'translations.html' as translations with context %}
-            Choose a different language: {{ translations.translations_for(article) }}
+            {{ translations.translations_for(article) }}
+            </div>
+
+        </div>
+
+        <div class="entry-content blog-post">
+            {{ article.content }}
+        </div>
+        <div class="post_list">
             </div>
             <div class="tags-section"><span>Tags : </span>
                 {% if article.tags %}
@@ -37,8 +42,7 @@
                 {% endif %}
             </div>
 
-
-            <div class="entry-social">
+            <div class="entry-social my-social-section-padding">
                 <span class="twitter"><a target="_blank" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;" title="Twitter" href="https://twitter.com/share?url={{ SITEURL }}/{{ article.url }}&text={{ article.title }}&via={{TWITTER_USERNAME}}"><img src="{{ SITEURL }}/theme/images/icons/twitter-s.png"></a></span>
 
                 <span class="gplus"><a target="_blank" title="Google +" href="https://plus.google.com/share?url={{ SITEURL }}/{{article.url}}&hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="{{ SITEURL }}/theme/images/icons/google-s.png"></a></span>
@@ -49,6 +53,7 @@
 
                 <span class="mail"><a href="mailto:?subject={{ article.title }}&amp;body=Viens découvrir un article à propos de [{{ article.title }}] sur le site de {{ AUTHOR }}. {{ SITEURL }}/{{article.url}}" title="Share by Email" target="_blank"><img src="{{ SITEURL }}/theme/images/icons/mail-s.png"></a></span>
             </div>
+
         </div>
         {% if DISQUS_SITENAME %}
         <div class="comments">

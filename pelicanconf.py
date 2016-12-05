@@ -8,9 +8,8 @@ HERE = os.path.abspath(os.path.dirname(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(HERE, '.'))
 
 AUTHOR = 'Iqbal Abdullah'
-SITENAME = 'Iqbal, Rileks La.'
-TOP_PAGE_TITLE = 'Welcome To My Blog'
-#SITEURL = 'https://iqbal.rileks.la'
+SITENAME = "iqbalabd's blog on the internet"
+TOP_PAGE_TITLE = "Blog Top"
 SITEURL = 'http://localhost:8000'
 DISPLAY_PAGES_ON_MENU = True
 
@@ -83,7 +82,7 @@ languages_lookup = {
 }
 
 # pelican-blue theme settings
-SIDEBAR_DIGEST = 'Programmer and Web Developer'
+SIDEBAR_DIGEST = 'またのブログ'
 #FAVICON = 'url-to-favicon'
 DISPLAY_PAGES_ON_MENU = True
 TWITTER_USERNAME = 'iqbalabd'
