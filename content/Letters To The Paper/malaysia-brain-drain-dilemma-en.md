@@ -2,14 +2,18 @@ Title: The Malaysia's brain drain dilemma
 Slug: the-malaysian-brain-drain-dilemma
 Lang: en
 Date: 2017-01-28 11:00
-Tags: current affairs; malaysia; talents; humans
+Tags: current affairs; malaysia; talents; humans; brain-drain
 Author: Iqbal Abdullah
 Summary: My take on the Malaysian brain-drain dilemma
 
+_This is the original article which was published on 28th Feb 2017 in The Malay Mail Online
+titled [Believing in Malaysia’s future and
+potential](http://m.themalaymailonline.com/what-you-think/article/believing-in-malaysias-future-and-potential-iqbal-abdullah)_
+
 [This](http://m.themalaymailonline.com/malaysia/article/the-other-side-of-malaysias-brain-drain-story) 
-article on The Malay Mail Online brought me thinking on this fine Saturday
-morning of the 1st day of the New Lunar Year, and I want to write on what I
-think of the _Malaysian Brain Drain Dilemma_
+article concerning Malaysia's brain drain phenomena on The Malay Mail Online 
+brought me thinking on this fine Saturday morning of the 1st day of the
+New Lunar Year, and I want to write on what I think of the _Malaysian Brain Drain Dilemma_
 
 Malaysia spends time, money and effort to attract Malaysian overseas to return
 to Malaysia and contribute back to the country. The idea of getting people to
@@ -19,7 +23,7 @@ wanting people_ to contribute.
 
 On the other hand, I do not see the point of getting _Malaysians to Malaysia_ in
 order to achieve that. I feel the narrative of showing better lives for
-Malaysias who returned home after years away, or of Malaysians who succeeded
+Malaysians who returned home after years away, or of Malaysians who succeeded
 _because_ they left home is missing the point.
 
 ## In the 21st century you can be anywhere and still contribute
@@ -120,6 +124,10 @@ home, the universal values that apply to a good home will apply and attract many
 people, regardless of nationality, colour and creed. This is what makes a
 country great: People believing in it and wanting to participate in it's growth
 process. All these believers will come, and call Malaysia their home.
+
+And when we reach this stage, we will be in a totally different playing field altogether. 
+It will no longer be what race we are, or who are sons of soil, or where we are
+from but we will be in the race to be the best in the world. 
 
 I believe in this vision of our country, where everyone wants to make it their
 home, and believe in its potential and future. In the end, this is what we
