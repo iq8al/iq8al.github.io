@@ -1,5 +1,5 @@
-Title: Getting involved with the community through PyCon
-Slug: getting-involved-through-pycon
+Title: Changing the world one PyCon at a time
+Slug: changing-the-world-one-pycon-at-a-time
 Lang: en
 Date: 2017-06-15 16:00
 Modified: 2017-06-15 16:00
@@ -182,8 +182,23 @@ actual people and know-how to build what we want to sell. PyCon MY is
 that small ripple we're making to have a positive contribution to the
 overall builders and programming ecosystem.
 
+# Changing the world one PyCon at a time
 
-# And then you have the people at PyCon
+In essence, the aim of an intellectual conference like a PyCon, similar to museums
+and art galleries is to enlighten you and transform you to a different person from
+the person that you were before attending the conference.
+
+It doesn't have to be a huge transformation
+
+For APAC this year and for the first time in the history of PyCon in Malaysia,
+we are trying a few new things, that hopefully will 
+
+Financial Aid
+Tie up with Women Who Code
+Having the conference at a commercial conference venue
+Reducing waste
+Subsidized ticketing
+
 
 
 Through PyCon, the community also tries to practice common ground principles
