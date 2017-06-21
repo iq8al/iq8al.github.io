@@ -201,6 +201,10 @@ who came to a PyCon APAC for the first time, and their eyes light up and they sm
 now they want to start something in their city and their community after
 experiencing the conference.
 
+![PyCon APAC dinner in Taipei]({filename}/images/pycon/dylan-jay-bangkok.jpg)
+**Meeting up with Dylan Jay in Bangkok. Dylan is the former lead for the Sydney
+Python Users Group**
+
 The collective knowledge of all of us help to remove some anxiety and help guide
 them on what are the points that they'll need to keep in mind to start something
 for their own city, from organizing know-how to even getting sponsorship
@@ -262,6 +266,10 @@ PyCon.
 **Our keynote for mini PyCon MY, [Eric Holscher](http://ericholscher.com/) giving
 his talk. Eric was in Kuala Lumpur for vacation and also decided to
 contribute.**
+
+![PyCon APAC dinner in Taipei]({filename}/images/pycon/pycon-my-um-02-08-2015.jpg)
+**Members of PyCon JP coming in to support our first PyCon MY in University
+Malaya**
 
 ![PyCon MY 2015]({filename}/images/pycon/pycon-my-2015-hello.jpg)
 **Kicking off PyCon MY 2015.**
