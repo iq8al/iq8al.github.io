@@ -5,7 +5,7 @@ Date: 2017-06-15 16:00
 Modified: 2017-06-15 16:00
 Tags: pycon; japan; malaysia; apac; community; kuala lumpur;
 Authors: Iqbal Abdullah
-Summary: Thinking back on what I've done for PyCon and how it all started in the first place.
+Summary: Thinking back on what I've done through PyCon and how it all started in the first place.
 
 # Changing the world one PyCon at a time
 
@@ -75,7 +75,7 @@ technology by the programming language, new concepts and philosophy in thinking 
 language and even how communities are organized towards a greater good for
 everyone at large originate mostly in the United States and Europe.
 
-If we cannot be in the United States to listen to the great minds that shape
+If we cannot be in the United States to meet and listen to the great minds that shape
 the programming language, its community and its future, lets have those minds
 here instead.
 
@@ -156,7 +156,8 @@ This was good for us in the region on 2 accounts:
   different city
 - We have another host decided for 2014.
 
-So in August 2013, we organized PyCon APAC in Shinjuku, Tokyo
+So in August 2013, we organized PyCon APAC in Shinjuku, Tokyo, and that is where
+we met all the many people that will spread PyCon across the region.
 
 ## The Asia Pacific Connection
 
@@ -172,7 +173,7 @@ community representatives such as Singapore and South Korea which we managed to
 get in touch with when they came to APAC in Tokyo, to move the APAC conference to Taipei.
 
 Since there was no other community which has shown interest to host APAC for
-2015, the conference stayed in Taipi until 2015
+2015, the conference stayed in Taipi until 2015.
 
 ![PyCon APAC dinner in Taipei]({filename}/images/pycon/pycon-apac-tw-06-2015.jpg)
 **With Van Lindberg, Chairperson for the PSF, Beng Keat, and our friends and staff organizing
@@ -210,15 +211,15 @@ also speakers to the APAC conferences.
 
 After helping out with running PyCon in Japan, I realized that all the PyCons
 that we had in the APAC region has all been on the north-eastern part of Asia
-Pacific, with the exception of Singapore, but all of them were cost and time
+Pacific, with the exception of Singapore, but all of them were either cost or time
 prohibitive to the rest of Asia Pacific.
 
 And that begin my next project: To kickstart an annual PyCon in Malaysia grown
-for the locals, and bring APAC and the rest of the world to Kuala Lumpur.
+for the locals, from the locals, and bring APAC and the rest of the world to Kuala Lumpur.
 
 My aim is to have an APAC conference here in Kuala Lumpur as I believe, compared
 to the north-east of Asia Pacific, a conference here will be more accessible to
-more people.
+much more people.
 
 _If we can't go to PyCon, we'll get PyCon here._
 
@@ -276,7 +277,7 @@ Singapore in 2010 (Steve Holden), and another keynote speaker for the first PyCo
 ([Tarek Ziadé](https://ziade.org/resume.html), who works remotely in the bushes of Dijon, for Mozilla)
 was our keynote speakers in 2016.
 
-I am happy to report that Tarek enjoyed his first ever durian when keynoting for us.
+I am happy to report that Tarek enjoyed his first ever durian here in Kuala Lumpur when keynoting for us.
 
 #### The local sponsors
 
@@ -353,7 +354,7 @@ participation from under represented groups who could not have attended the
 conference due to financial reasons, or also from female tech communities, which
 historically have little participation in tech conferences locally.
 
-So in a way, PyCons are not _only_ just a technical conference that you might
+So in a way, PyCons are not _only just_ a technical conference that you might
 expect from practicioners of a certain technology: It's also sort of a social
 movement. Although in PyCons you do have booths for companies the commercial
 aspects are very much watered down (as opposed to RISE or Web Summit).
@@ -369,8 +370,9 @@ conferences, this is mostly achieved from the human interaction that you've
 achieved listening to and discussing about talks and interacting with other attendees.
 These transformations does not have to be huge leaps. Knowledge transfers take
 time and require us to work on the new information many times in our minds before we can fully
-appreciate and understand them. Changing the world starts here, by us, one good idea at a time, 
-one PyCon at a time.
+appreciate and understand them.
+
+Changing the world starts here, by us, one good idea at a time and through one PyCon at a time.
 
 
 [^fn01]:[Why was Python's popularity so sudden?](https://softwareengineering.stackexchange.com/questions/27207/why-was-pythons-popularity-so-sudden)
