@@ -287,6 +287,10 @@ was our keynote speakers in 2016.
 
 I am happy to report that Tarek enjoyed his first ever durian here in Kuala Lumpur when keynoting for us.
 
+Following the model that we did in Japan, we have also setup a [partnership](https://pycon.my/about/pycon-my-plt/)
+in Malaysia to facilitate managing funds and also as a public-facing entity to be
+responsible for managing PyCon in Malaysia.
+
 #### The local sponsors
 
 Our local sponsors who have supported us until now are mostly small companies with
