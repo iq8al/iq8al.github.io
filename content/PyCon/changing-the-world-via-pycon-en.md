@@ -7,6 +7,8 @@ Tags: pycon; japan; malaysia; apac; community; kuala lumpur;
 Authors: Iqbal Abdullah
 Summary: Thinking back on what I've done for PyCon and how it all started in the first place.
 
+# Changing the world one PyCon at a time
+
 As an engineer, programming languages are very important tools to solve the
 problems that you face. As an entrepreneur, they are also important tools to
 bring your imagination to life, to get that profit and making that difference.
@@ -57,7 +59,7 @@ And as it turns out, the chairperson for the first PyCon APAC in Singapore was L
 ([@bengkeatliew](https://twitter.com/bengkeatliew)) a Malaysian from Kuala
 Lumpur. We have more in common than I thought!
 
-### Bringing PyCon to the region
+## Bringing PyCon to the region
 
 It was then that Beng Keat was telling me the reason he wanted to organize a
 regional version of PyCon APAC: Beng Keat had the opportunity to attend PyCon in
@@ -81,7 +83,7 @@ And at that first APAC PyCon in Singapore, one of the keynote speakers was [Stev
 Holden](https://github.com/holdenweb), who was the chairman for PSF[^fn02], 
 who later on was a pivotal figure for the growth of PyCon within APAC.
 
-## Building the Japan PyCon community, circa 2011
+### Building the Japan PyCon community, circa 2011
 
 We invited Steve to come to Tokyo after APAC, and over dinner we talked about
 having an annual conference to get pythonistas from all over the country to come
@@ -137,7 +139,7 @@ have an open non-profit general meeting during the local PyCons. It is here
 where we met other people which are thinking or are interested in running their
 own PyCons.
 
-## PyCon APAC in Japan, 2013
+### PyCon APAC in Japan, 2013
 
 Singapore had been organizing the APAC conference for 3 years in a row since
 2010, and following the model of PyCon US of moving the venue to different cities
@@ -204,7 +206,7 @@ for their own city, from organizing know-how to even getting sponsorship
 funding. The PSF in this regard have been supportive in providing grants and
 also speakers to the APAC conferences.
 
-## Connecting pythonistas in Malaysia
+### Connecting pythonistas in Malaysia
 
 After helping out with running PyCon in Japan, I realized that all the PyCons
 that we had in the APAC region has all been on the north-eastern part of Asia
@@ -276,7 +278,7 @@ was our keynote speakers in 2016.
 
 I am happy to report that Tarek enjoyed his first ever durian when keynoting for us.
 
-### Thank you to the local sponsors
+#### The local sponsors
 
 Our local sponsors who have supported us until now are mostly small companies with
 personal relations to one of the member of the staff, that uses Python in their
@@ -289,9 +291,9 @@ that it will bring to them and to the community.
 For our 1st local PyCon we did have big name companies that sponsored us, like
 Amazon Web Services (AWS) and [Braintree](https://www.braintreepayments.com/) a 
 subsidiary of PayPal. But the young and still inexperienced Python crowd in Malaysia
-might not be a compelling reason for them to continue sponsoring.
+might not be a compelling reason yet for them to continue sponsoring.
 
-# PyCon APAC in Kuala Lumpur
+## PyCon APAC in Kuala Lumpur
 
 For 2017, after making a proposal to the APAC community, we have been
 selected to hold the responsibility of having PyCon APAC 2017 in Kuala Lumpur,
@@ -312,61 +314,63 @@ overall builders and programming ecosystem.
 
 With the title of being a regional conference, we now have the clout to invite
 successful technology practicioners from overseas to give talks and share their
-ideas with the local people. This will hopefully spark interest and motivate
+insights and ideas with the local crowd. This will hopefully spark interest and motivate
 them to further improve their skills and knowledge.
 
-# Changing the world one PyCon at a time
+## Changing the world one PyCon at a time
+
+Through PyCon, the community also tries to practice common ground principles
+based on universally accepted ideas and ideals. All regional or local PyCons which requests
+grants from the PSF [are required to have a _Code Of Conduct_](http://pyfound.blogspot.jp/2012/12/psf-moves-to-require-code-of-conduct.html) that governs how they organizers manage the conference, _and_ 
+also how the attendess behave and interact with one another during the conference.
+
+These Code Of Conducts reflect the values of the community and what they think
+is important. Not all talks during PyCons are about programming, web frameworks
+or libraries: Some of them are about the experiences of the speaker walking the
+path to become a female developer in an industry widely regarded as male dominated,
+or the need to have more diversity and how it's achieved through free community
+training programs.
+
+Focused groups like PyLadies (python group focused on women),
+DjangoCon (Conference focused on the Django framework) and SciPy
+(Conference for the users of python in the academics and science
+fields) also all contribute to these same ideas and ideals while adding more
+spice to the already vibrant python community. In all this PyCon is the general
+conference that tries to cover many usages of Python.
+
+Following the spirit of the community at large and the values and ideals that we
+try to have, for APAC this year and for the first time in the history of PyCon in Malaysia,
+we are trying a few new things, such as
+
+- Financial Aid
+- Tie up with Women Who Code (WHC)
+- Having the conference at a commercial conference venue
+- Reducing waste
+- Subsidized ticketing
+
+The Financial Aid, tie up with WHC and subsidized ticketing all aims to increase
+participation from under represented groups who could not have attended the
+conference due to financial reasons, or also from female tech communities, which
+historically have little participation in tech conferences locally.
+
+So in a way, PyCons are not _only_ just a technical conference that you might
+expect from practicioners of a certain technology: It's also sort of a social
+movement. Although in PyCons you do have booths for companies the commercial
+aspects are very much watered down (as opposed to RISE or Web Summit).
+
+With the PyCon and it's culture blooming in this part of the world, I
+hope it will continue to be a place pythonistas regardless of experience
+continue to meet, exchange ideas, interact and grow.
 
 In essence, the aim of a conference like a PyCon, similar to the experience museums
 or art galleries offer is to enlighten you and transform you to a different person intellectually
 from that person that you were before attending the conference. In the context of
 conferences, this is mostly achieved from the human interaction that you've
 achieved listening to and discussing about talks and interacting with other attendees.
-
-But these transformation does not have to be big
-
-For APAC this year and for the first time in the history of PyCon in Malaysia,
-we are trying a few new things, that hopefully will 
-
-Financial Aid
-Tie up with Women Who Code
-Having the conference at a commercial conference venue
-Reducing waste
-Subsidized ticketing
-
-Through PyCon, the community also tries to practice common ground principles
-based on universal ideas and ideals. All regional or local PyCons which requests
-grants from the PSF are required to have a _Code Of Conduct_ that governs how
-they organizers manage the conference, _and_ also how the attendess behave and
-interact with one another during the conference.
-
-These Code Of Conducts reflect the values of the community and what they think
-is important. Not all talks during PyCons are about programming, web frameworks
-or libraries: Some of them are about the experiences of the speaker to become
-a female developer, or the need to have more diversity and how it's achieved 
-through free community training programs
-
-Focused groups like PyLadies (python group focused on women),
-DjangoCon (Conference focused on the Django framework) and SciPy
-(Conference for the users of python in the academics and science
-fields) also all contribute to that same ideas and ideals while adding 
-to the vibrant python community, while PyCon is the general conference that tries
-to cover many usages of Python.
-
-So in a way, PyCons are not _only_ just a technical conference that you might
-expect from practicioners of a certain technology: It's also sort of a social
-movement. Although in PyCons you do have booths for companies the commercial
-aspects are very much watered down (as opposed to RISE or Web Summit) and people
-come
-
-
-With the PyCon and it's culture blooming in this part of the world, I
-hope it will continue to be a place pythonistas regardless of experience
-continue to meet, exchange ideas, interact and grow.
-
-Changing the world starts here, by us, and one PyCon at a time.
-
-
+These transformations does not have to be huge leaps. Knowledge transfers take
+time and require us to work on the new information many times in our minds before we can fully
+appreciate and understand them. Changing the world starts here, by us, one good idea at a time, 
+one PyCon at a time.
 
 
 [^fn01]:[Why was Python's popularity so sudden?](https://softwareengineering.stackexchange.com/questions/27207/why-was-pythons-popularity-so-sudden)
