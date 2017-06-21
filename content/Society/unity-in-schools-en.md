@@ -107,7 +107,7 @@ did not start?
 
 Don't make our public schools one of the scapegoats of our inability to get our
 act together, and don't expect the schools to solve a problem it did not
-started.
+start.
 
 # Focusing on good education and it's resources
 
@@ -204,7 +204,7 @@ taking all this while, we are insane!
 
 It dies when we only care about our own lot.
 
-Let us remove all references to a particular language or race types of school, 
+Remove all references to a particular language or race types of school, 
 from vernacular schools, the Malay College to the MRSM schools by MARA[^footnote1] 
 schools and make all these schools accessible without prejudice to any child of Malaysia.
 
