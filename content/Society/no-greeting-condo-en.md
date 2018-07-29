@@ -2,7 +2,7 @@ Title: Let's stop saying hello
 Slug: no-greeting-condo
 Lang: en
 Date: 2016-11-09 08:30
-Modified: 2010-10-04 18:40
+Modified: 2016-11-09 08:30
 Tags: living together; greeting people;
 Authors: Iqbal Abdullah
 Summary: The cutting edge on living together in a condo

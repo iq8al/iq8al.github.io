@@ -2,7 +2,7 @@ Title: あいさつをやめましょう。
 Slug: no-greeting-condo
 Lang: ja
 Date: 2016-11-09 08:30
-Modified: 2010-10-04 18:40
+Modified: 2016-11-09 08:30
 Tags: 近所付き合い; マンション生活; あいさつ;
 Authors: Iqbal Abdullah
 Summary: 日本の近所付き合いの最先端だそうです。
